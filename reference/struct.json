@@ -1,0 +1,28 @@
+{
+  "phrases": [
+    {
+      "phrase_number": 1,
+      "lyrics": "The other night, dear, as I lay sleeping",
+      "start_time_ms": 0,
+      "end_time_ms": 5796
+    },
+    {
+      "phrase_number": 2,
+      "lyrics": "I dreamed I held you in my arms",
+      "start_time_ms": 5796,
+      "end_time_ms": 12074
+    },
+    {
+      "phrase_number": 3,
+      "lyrics": "When I awoke, dear, I was mistaken",
+      "start_time_ms": 12074,
+      "end_time_ms": 18736
+    },
+    {
+      "phrase_number": 4,
+      "lyrics": "So I bowed my head and I cried",
+      "start_time_ms": 18736,
+      "end_time_ms": 23462
+    }
+  ]
+}
